@@ -2,8 +2,7 @@
 
 ## Project Overview
 
-In this project we analyzed a local congressional Election results from Colorado Board of Elecctions - with 
-following goals:
+In this project we analyzed a local congressional Election results from Colorado Board of Elecctions - with the following goals:
 * Calculate the total number of votes cast
 * Get a complete list of candidates who received votes
 * Calculate the total number of votes each candidate received
